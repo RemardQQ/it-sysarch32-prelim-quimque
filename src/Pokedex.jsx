@@ -43,7 +43,7 @@ export default function Pokedex() {
 
     const handleLanguageChange = (lang) => {
         setLanguage(lang);
-        setCurrentPage(1);
+        
     };
 
     return (
